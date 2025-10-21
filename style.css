@@ -1,13 +1,13 @@
-h1{
+.h1{
     font-weight: bold;
     text-align: center;
     color: white;
 }
-pre{
+.pre{
     font-family: 'Gill Sans',sans-serif;
     color: greenyellow;
     text-align: center;
 }
-body{
+.body{
     background-color: darkslateblue;
 }
